@@ -1,14 +1,7 @@
-# Advanced-Multi-Agent-Workout-App
 
-# 💻 Launch Your Software Development Career Today!  
+AI Fitness Coach – LLM Chatbot for Health & Fitness Goals
+main tech stack: RAG, Flask, Langflow, OpenAI API, Datastax-AstraDB
 
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
-
-🚀 **Why Join?**  
-- 💼 **$70k+ starting salary potential**  
-- 🕐 **Self-paced:** Complete on your own time  
-- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
-- 🎯 **45,000+ job openings** in the market  
-
-👉 **[Start your journey today!](https://techwithtim.net/dev)**  
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
+Developed an LLM-powered chatbot for personalized fitness planning using Langflow, Streamlit, OpenAI API,
+and custom prompt flows. Delivered tailored diet/workout advice, tracked user goals via memory components,
+and supported multi-turn conversations with natural language understanding.
